@@ -1,0 +1,18 @@
+# Pre-Check
+Did you have any problems if any getting the project set up?
+
+# Problem A
+What was the issue with the class?
+
+(Optional) Why might someone find the person class funny?
+
+# Problem B
+Why is it difficult to test methods that use floating points?
+
+# Problem C
+How would you change the simulator so that the code is testable?
+
+Based on our examples, it seems that Person A always gets the short end of the stick and has to drive more when going on a trip?
+Is this true or false? If true explain your reasoning and estimate how much more Person A has to drive than B. If false explain 
+why our examples are giving us this false impression and what to change for more equal trips. 
+

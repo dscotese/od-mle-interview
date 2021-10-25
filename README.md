@@ -8,7 +8,9 @@ Welcome to the Optimal Dynamics take home assessment! We know how stressful it c
 - Ability to produce testable and **extensible** code
 
 #### Structure of the Assessment 
-This assessment will be be completed in `Java 11` & we will be using the `gradle` build system. The tasks that you are asked to complete are marked with a `TODO` in the code files so you may search for them or take advantage of Intellij's [checklist](https://www.jetbrains.com/help/idea/using-todo.html) functionality.
+This assessment will be be completed in `Java 11` & we will be using the `gradle` build system. The tasks that you are asked to complete are marked with a `TODO` in the code files so you may search for them or take advantage of Intellij's [checklist](https://www.jetbrains.com/help/idea/using-todo.html) functionality. 
+
+We **HIGHLY** recommend using IntelliJ to complete this assessment.  
 
 There are 3 problems (A, B, C) and pre-check for you to complete in this assessment. For every problem (i.e. A, B, C), there is an associated package in the `src.java` directory. Feel free to add/remove as much code as you believe is necessary to complete the assessment. There is an `extras` package where we have a few domain objects. The `Person` class that you will need to edit for problem A is located here. Implement the unit tests using the specified `junit` provided For the portions of the assessment that ask for a written answer - please type your responses in the `answers.txt` file at the root of the repository. 
 

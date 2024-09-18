@@ -12,7 +12,7 @@ This assessment will be be completed in `Java 11` & we will be using the `gradle
 
 We **HIGHLY** recommend using IntelliJ to complete this assessment.  
 
-There are 3 problems (A, B, C) and pre-check for you to complete in this assessment. For every problem (i.e. A, B, C), there is an associated package in the `src.java` directory. Feel free to add/remove as much code as you believe is necessary to complete the assessment. There is an `extras` package where we have a few domain objects. The `Person` class that you will need to edit for problem A is located here. Implement the unit tests using the specified `junit` provided For the portions of the assessment that ask for a written answer - please type your responses in the `answers.txt` file at the root of the repository. 
+There are 3 problems (A, B, C) and pre-check for you to complete in this assessment. For every problem (i.e. A, B, C), there is an associated package in the `src.java` directory. Feel free to add/remove as much code as you believe is necessary to complete the assessment. There is an `extras` package where we have a few domain objects. The `Person` class that you will need to edit for problem A is located here. Implement the unit tests using the specified `junit` provided. For the portions of the assessment that ask for a written answer - please type your responses in the `answers.txt` file at the root of the repository. 
 
 For the in person follow-up to this assessment, we will be asking you to edit and extend the implementations you write. Emphasize what you think is the best approach that will allow you to later add more to these classes. 
 
@@ -29,9 +29,9 @@ The entry point can be found in `src.java.Main`.
     * (Optional) Explain why this is funny
 * B - Math & Unit Testing
     * Implement a distance calculator that can calculate the distance between 2 locations using [Euclidean](#eclidean) distance or the [Haversine](#haversine) formula 
-    * Your distance functions must be impletmented in the `B` package feel free to use the provided interface in your implementation or ignore it
+    * Your distance functions must be impletmented in the `B` package. Feel free to use the provided interface in your implementation or ignore it
     * Write two unit tests : one for the Euclidean method & one for the Haversine method
-    * How would you make it so that you could easily switch between these methods at without having to recompile the code? 
+    * How would you make it so that you could easily switch between these methods without having to recompile the code? 
     * Hint : Think of how you can use a Factory and/or Stategy method to provide a clean interface
     * Why is unit testing floating point numbers difficult? 
 * C - Modeling
